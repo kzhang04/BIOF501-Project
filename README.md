@@ -28,7 +28,7 @@ This pipeline processes `.rds` files containing Seurat objects as input. It incl
 
 A visual diagram displaying the pipeline workflow can be seen below:
 
-
+![alt text](DAG.png)
 
 ### 2.1 Software Package Versions
 
